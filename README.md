@@ -117,7 +117,7 @@ ProfileManagerApplication (Main)
 2. Ejecutar `./mvn clean install`
 3. Ejecutar `./mvn spring-boot:run`
 4. Otra opción es ejecutar la siguiente linea `java -jar target/user-manager-0.0.1-SNAPSHOT.jar`
-5. Descargar Postman Collection:[https://github.com/jlopez34/publishing-rest-service/blob/master/env/ingerencia-challenge.postman_collection.json][https://github.com/jlopez34/publishing-rest-service/blob/master/env/ingerencia-challenge.postman_collection.json]
+5. Descargar Postman Collection:[https://github.com/jlopez34/user-manager/blob/master/env/BCI%20-%20Test.postman_collection.json][https://github.com/jlopez34/user-manager/blob/master/env/BCI%20-%20Test.postman_collection.json]
 
 #### Test
 Ejecutar `./mvn test` para correr los test unitarios.<br>
