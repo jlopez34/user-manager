@@ -58,9 +58,6 @@ de servicios seria el siguiente:
 3. Sign in: En caso el token pierda validez se puede obtener un nuevo token utilizando este servicio. 
 
 
-
-
-
 ### EndPoints:
 | Metodo Http | Endpoint                                     | Descripción                                       |
 |-------------|----------------------------------------------|---------------------------------------------------|
@@ -70,6 +67,9 @@ de servicios seria el siguiente:
 
 * Swagger Documentation :  
   http://localhost:8080/swagger-ui/index.html#/
+
+* Postman Collection:
+  https://github.com/jlopez34/user-manager/blob/master/env/BCI%20-%20Test.postman_collection.json
 
 ### Entrega
 
@@ -124,5 +124,5 @@ Ejecutar `./mvn test` para correr los test unitarios.<br>
 
 [https://github.com/jlopez34/user-manager.git]: https://github.com/jlopez34/user-manager
 
-[https://github.com/jlopez34/publishing-rest-service/blob/master/env/ingerencia-challenge.postman_collection.json]: https://github.com/jlopez34/publishing-rest-service/blob/master/env/ingerencia-challenge.postman_collection.json
+[https://github.com/jlopez34/user-manager/blob/master/env/BCI%20-%20Test.postman_collection.json]: https://github.com/jlopez34/user-manager/blob/master/env/BCI%20-%20Test.postman_collection.json
 
