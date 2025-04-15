@@ -49,6 +49,9 @@ Mayuscula, letras minúsculas, y dos números)
 
 ### Diagrama de Solución:
 #### Flujo de Consumo de servicios:
+<img width="864" alt="Screenshot 2025-04-15 at 2 29 05 PM" src="https://github.com/user-attachments/assets/6490709f-5d8e-4dfe-91b6-b39dda8beace" />
+
+
 
 Debido a que la implementación fue realizada con una base de datos en memoria (H2), cada vez que se ejecute el projecto
 se debe crear el usuario para poder acceder al servicio de creación de perfiles, por lo mismo la secuencia de consumo
